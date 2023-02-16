@@ -3,6 +3,6 @@ Public Class Subtraction
      {
         int a=5;
         int b=2;
-        int Diff = a - b ;
+        int diff = a - b ;
         system.out.println("Subtraction is" +diff);
      }
