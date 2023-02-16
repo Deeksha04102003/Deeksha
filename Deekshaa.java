@@ -4,5 +4,5 @@ Public Class Subtraction
         int a=5;
         int b=2;
         int Diff = a - b ;
-        system.out.println("Subtraction is" +sum);
+        system.out.println("Subtraction is" +diff);
      }
